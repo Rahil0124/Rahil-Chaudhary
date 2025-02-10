@@ -25,3 +25,8 @@
 - **Real-Time Data Sync:** Seamless updates between linked worksheets.  
 - **Automated Alerts:** Notifications for missing or incomplete test modules.  
 - **Priority Management:** Dynamic test prioritization based on readiness and criticality.  
+
+
+## **Project Resources**
+- [App Script Code](./docs/TC_AppScript.java)  
+- [Sample Test Case Data Sheet](https://docs.google.com/spreadsheets/d/1dvx_a2qMpUCsmJljF9rhgPhqlST-HyJKA2Ylgbvgq-U/edit?pli=1&gid=1546148953#gid=1546148953)
