@@ -16,6 +16,10 @@ Senior Lead SDET @Leadschool
 
 ### 3. [Dynamic Test Execution for Targeted Automation](./Dynamic_Test_Execution.md)  
 - Enabled module and product-type-specific test execution through a custom TestNG listener.  
-- Reduced group configurations and simplified test management.  
+- Reduced group configurations and simplified test management.
+
+### 4. [Custom Test Case Management](./Test_Case_Management.md)  
+- **Inter-Linked Test Case Sheets** for real-time analysis and tracking.
+- **Automated App Script** to validate and manage priority assignments efficiently.
 
 
