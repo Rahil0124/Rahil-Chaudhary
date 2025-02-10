@@ -26,6 +26,15 @@ Senior Lead SDET @Leadschool
 
 ---
 
+## Certifications  
+- **LinkedIn Learning:**
+  - Database
+    - "Data Analysis with PostgresSQL"  
+    - "Advanced Queries with PostgresSQL"
+    - "SQL Hands on - Business Problems"
+
+---
+
 ## 📫 Let's Connect  
 - [LinkedIn](www.linkedin.com/in/rahil-senior-lead-sdet)  
 - [Email Me](mailto:rahil0124@gmail.com)  
