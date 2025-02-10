@@ -29,4 +29,4 @@
 
 ## **Project Resources**
 - [App Script Code](./docs/TC_AppScript.java)  
-- [Sample Test Case Data Sheet](https://docs.google.com/spreadsheets/d/1dvx_a2qMpUCsmJljF9rhgPhqlST-HyJKA2Ylgbvgq-U/edit?pli=1&gid=1546148953#gid=1546148953)
+- [Master Test Case Sheet](https://docs.google.com/spreadsheets/d/1dvx_a2qMpUCsmJljF9rhgPhqlST-HyJKA2Ylgbvgq-U/edit?pli=1&gid=1546148953#gid=1546148953)
