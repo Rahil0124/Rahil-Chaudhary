@@ -7,5 +7,5 @@ Senior Lead SDET @Leadschool
 - 🧩 **Problem Solver:** Busting technical and process-level impediments.  
 - 🤝 **Team Builder:** Upskilling and mentoring team members on technical competencies.
 
-### 1. [Continuous Integration for Physical Android Devices](./docs/CICD_Physical_Android.md)  
+### 1. [Continuous Integration for Physical Android Devices](./docs/CICD_Physical_Android.md) 
 - Automated `.apk` retrieval and test execution for physical Android devices.   
