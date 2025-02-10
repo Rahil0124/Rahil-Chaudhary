@@ -1,6 +1,8 @@
 # Rahil Chaudhary  
 Senior Lead SDET @Leadschool
 
+---
+
 ## What I Do:  
 
 - 🚀 **Automation Strategy:** Automating critical business scenarios across all product lines.  
@@ -21,5 +23,11 @@ Senior Lead SDET @Leadschool
 ### 4. [Custom Test Case Management](./Test_Case_Management.md)  
 - **Inter-Linked Test Case Sheets** for real-time analysis and tracking.
 - **Automated App Script** to validate and manage priority assignments efficiently.
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](www.linkedin.com/in/rahil-senior-lead-sdet)  
+- [Email Me](mailto:rahil0124@gmail.com)  
 
 
